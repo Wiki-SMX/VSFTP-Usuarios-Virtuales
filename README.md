@@ -1,7 +1,6 @@
 # VSFTP-Usuarios-Virtuales-Fedora
 Crear usuarios virtuales de VSFTP en Fedora
 
-
 ## 1.Instalar Berkeley Database
   > yum install db4-utils db4 -y
 
@@ -35,4 +34,5 @@ ahora virtual.db es la base de datos de los usuarios
 ## 7. carpeta para subir archivos
 > mkdir -p /ftp/virtual/senthil/pull
 > chmod 777 /ftp/virtual/senthil
+
 ## Ya esta :D  
