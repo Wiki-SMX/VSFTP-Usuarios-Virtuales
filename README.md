@@ -6,7 +6,9 @@ Crear usuarios virtuales de VSFTP en Fedora
 
 ## 2.Crear archivo de database para los usuarios virtuales
   > nano /home/virtual_users.txt
+  
   >> senthil
+  
   >> centos
   
 Se escribe usuario y contrasenya respectivamente
