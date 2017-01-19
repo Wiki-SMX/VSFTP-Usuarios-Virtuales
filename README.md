@@ -37,4 +37,3 @@ ahora virtual.db es la base de datos de los usuarios
 > mkdir -p /ftp/virtual/senthil/pull
 > chmod 777 /ftp/virtual/senthil
 
-## Ya esta :D  
